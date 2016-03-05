@@ -1,0 +1,23 @@
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\resources.pri
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\AppxManifest.xml
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.build.appxrecipe
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\App.g.i.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.g.i.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.g.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\Common\StandardStyles.g.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\XamlTypeInfo.g.cs
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\App.xaml
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.xaml
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\Common\StandardStyles.xaml
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\priconfig.xml
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\layout.resfiles
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\resources.resfiles
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\pri.resfiles
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\LanguageQualifiers.txt
+c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\obj\Debug\ProjectArchitectures.txt

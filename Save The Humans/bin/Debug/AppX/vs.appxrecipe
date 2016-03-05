@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MINE</Machine>
+    <WindowsUser>KELLEY</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5928A11AF4327AE394D4285E4593ED942EE3B8A97A22C9615C4273773AA7267B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0aa416b5-b21e-4bff-911f-0c8f03aae47b_1.0.0.0_neutral__agma6w3711va4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0aa416b5-b21e-4bff-911f-0c8f03aae47b_agma6w3711va4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0aa416b5-b21e-4bff-911f-0c8f03aae47b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=KELLEY</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-05T01:45:44.493</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe">
+      <PackagePath>Save The Humans.exe</PackagePath>
+      <Modified>2016-03-05T20:15:40.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb">
+      <PackagePath>Save The Humans.pdb</PackagePath>
+      <Modified>2016-03-05T20:15:40.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-05T20:14:27.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-05T20:13:27.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2016-03-05T01:44:01.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2016-03-05T01:39:38.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2016-03-05T20:05:36.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kelley\documents\visual studio 2012\Projects\Save The Humans\Save The Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-05T01:45:43.360</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
